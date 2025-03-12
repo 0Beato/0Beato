@@ -1,4 +1,4 @@
--(●'◡'●) Hi, I’m B\x65ato\x00 currently im studying systems analysis and development.                            
+-(●'◡'●) Hi, I’m B\x65ato\x00 currently studying systems analysis and development.                            
 ---
   
 - ~$ Whoami
