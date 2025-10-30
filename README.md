@@ -6,15 +6,14 @@ B\x65ato\x00 is currently studying systems analysis and development.
   - Curious abt exploits, ethical hacking and cyberSecurity.
   - omw to be a programmer (or just pay my bills)
     
--I’m currently learning                                                                                                                                                                                                   
+-Currently learning                                                                                                                                                                                                   
   -OS
-  -Network
+  
   -Python
-  -C and C++
+  
    
 
-- 📫 How to reach me
-   - 217241@unisalesiano.com.br
+- 📫 How to reach me? send me a message
      
 
 
