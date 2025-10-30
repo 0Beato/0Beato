@@ -1,13 +1,14 @@
--(●'◡'●) Hi, I’m B\x65ato\x00 currently studying systems analysis and development.                            
+B\x65ato\x00 is currently studying systems analysis and development.                            
 ---
   
-- ~$ Whoami
+-~$ Whoami
   - Great guy with a little sense of humor.
   - Curious abt exploits, ethical hacking and cyberSecurity.
   - omw to be a programmer (or just pay my bills)
     
-- 🌱 I’m currently learning                                                                                                                                                                                                   
-  -Java for the first time cause of college and TCC                                                                                                                                                                      
+-I’m currently learning                                                                                                                                                                                                   
+  -OS
+  -Network
   -Python
   -C and C++
    
