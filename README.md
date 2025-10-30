@@ -7,9 +7,9 @@ B\x65ato\x00 is currently studying systems analysis and development.
   - omw to be a programmer (or just pay my bills)
     
 - Currently learning                                                                                                                                                                                                   
- **
-  ******
-  *******
+[?]
+[??]
+
    
 
 - 📫 How to reach me? send me a message
