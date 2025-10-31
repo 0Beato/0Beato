@@ -1,10 +1,13 @@
 B\x65ato\x00 is currently studying systems analysis and development.                            
 ---
   
-- ~$ Whoami
-  - Great guy with a little sense of humor.
-  - Curious abt exploits, ethical hacking and cyberSecurity.
-  - omw to be a programmer (or just pay my bills)
+- ~$ Whoami |  29 years of open source,
+shaped by atoms and molecules,
+cells and tissues through the lens of agorism.
+Analyzing binary choices made long ago.
+In debug, forever
+trying to understand
+the fundamental error of existence.
     
 - Currently learning                                                                                                                                                                                                   
 [?]
@@ -12,7 +15,7 @@ B\x65ato\x00 is currently studying systems analysis and development.
 
    
 
-- 📫 How to reach me? send me a message
+- 📫 Need to reach me? send a message
      
 
 
