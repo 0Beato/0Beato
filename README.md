@@ -9,9 +9,9 @@ In debug, forever
 trying to understand
 the fundamental error of existence.
     
-- Currently learning                                                                                                                                                                                                   
-[?]
-[??]
+- Currently learning                                                                                                                                                                            · Python
+· Playwright
+
 
    
 
