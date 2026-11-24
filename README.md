@@ -1,7 +1,7 @@
 B\x65ato\x00 is currently studying systems analysis and development.                            
 ---
   
-- ~$ Whoami |  29 years of open source,
+- ~$ Whoami |  30 years of open source,
 shaped by atoms and molecules,
 cells and tissues through the lens of agorism.
 Analyzing binary choices made long ago.
