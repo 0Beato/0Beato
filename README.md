@@ -15,7 +15,8 @@ the fundamental error of existence.
 
    
 
-- 📫 Need to reach me? send a message
+- 📫 Need to reach me? send a email: gabrielmbeato@gmail.com
+
      
 
 
